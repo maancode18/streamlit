@@ -10,3 +10,5 @@ pandas
 matplotlib
 numpy
 sse_starlette
+ollama
+PyPDF2
