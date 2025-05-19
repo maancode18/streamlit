@@ -1,6 +1,0 @@
-streamlit
-PyPDF2
-pandas
-langchain
-langchain-community
-ollama
