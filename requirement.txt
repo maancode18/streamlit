@@ -1,0 +1,14 @@
+langchain_openai
+langchain_core
+python_dotenv
+streamlit
+langchain_community
+langserve
+fastapi
+uvicorn
+pandas
+matplotlib
+numpy
+sse_starlette
+ollama
+PyPDF2
