@@ -4,3 +4,4 @@ pandas
 langchain
 langchain-community
 ollama
+beautifulsoup4
